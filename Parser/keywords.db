@@ -1,0 +1,9 @@
+# Single-Quotes
+'.rdp'
+'.ppk'
+'login'
+# No single quotes
+credential
+access code
+# Single quotes w/ spacing
+'log in'
